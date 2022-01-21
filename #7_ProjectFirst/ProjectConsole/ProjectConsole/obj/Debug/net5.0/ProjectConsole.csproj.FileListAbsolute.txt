@@ -1,0 +1,16 @@
+C:\Users\cemal\Desktop\CSharp-101\#7_ProjectFirst\ProjectConsole\ProjectConsole\bin\Debug\net5.0\ProjectConsole.exe
+C:\Users\cemal\Desktop\CSharp-101\#7_ProjectFirst\ProjectConsole\ProjectConsole\bin\Debug\net5.0\ProjectConsole.deps.json
+C:\Users\cemal\Desktop\CSharp-101\#7_ProjectFirst\ProjectConsole\ProjectConsole\bin\Debug\net5.0\ProjectConsole.runtimeconfig.json
+C:\Users\cemal\Desktop\CSharp-101\#7_ProjectFirst\ProjectConsole\ProjectConsole\bin\Debug\net5.0\ProjectConsole.runtimeconfig.dev.json
+C:\Users\cemal\Desktop\CSharp-101\#7_ProjectFirst\ProjectConsole\ProjectConsole\bin\Debug\net5.0\ProjectConsole.dll
+C:\Users\cemal\Desktop\CSharp-101\#7_ProjectFirst\ProjectConsole\ProjectConsole\bin\Debug\net5.0\ref\ProjectConsole.dll
+C:\Users\cemal\Desktop\CSharp-101\#7_ProjectFirst\ProjectConsole\ProjectConsole\bin\Debug\net5.0\ProjectConsole.pdb
+C:\Users\cemal\Desktop\CSharp-101\#7_ProjectFirst\ProjectConsole\ProjectConsole\obj\Debug\net5.0\ProjectConsole.csproj.AssemblyReference.cache
+C:\Users\cemal\Desktop\CSharp-101\#7_ProjectFirst\ProjectConsole\ProjectConsole\obj\Debug\net5.0\ProjectConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cemal\Desktop\CSharp-101\#7_ProjectFirst\ProjectConsole\ProjectConsole\obj\Debug\net5.0\ProjectConsole.AssemblyInfoInputs.cache
+C:\Users\cemal\Desktop\CSharp-101\#7_ProjectFirst\ProjectConsole\ProjectConsole\obj\Debug\net5.0\ProjectConsole.AssemblyInfo.cs
+C:\Users\cemal\Desktop\CSharp-101\#7_ProjectFirst\ProjectConsole\ProjectConsole\obj\Debug\net5.0\ProjectConsole.csproj.CoreCompileInputs.cache
+C:\Users\cemal\Desktop\CSharp-101\#7_ProjectFirst\ProjectConsole\ProjectConsole\obj\Debug\net5.0\ProjectConsole.dll
+C:\Users\cemal\Desktop\CSharp-101\#7_ProjectFirst\ProjectConsole\ProjectConsole\obj\Debug\net5.0\ref\ProjectConsole.dll
+C:\Users\cemal\Desktop\CSharp-101\#7_ProjectFirst\ProjectConsole\ProjectConsole\obj\Debug\net5.0\ProjectConsole.pdb
+C:\Users\cemal\Desktop\CSharp-101\#7_ProjectFirst\ProjectConsole\ProjectConsole\obj\Debug\net5.0\ProjectConsole.genruntimeconfig.cache
