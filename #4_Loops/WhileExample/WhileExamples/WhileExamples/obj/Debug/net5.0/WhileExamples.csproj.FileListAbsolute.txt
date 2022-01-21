@@ -1,0 +1,16 @@
+C:\Users\cemal\Desktop\CSharp-101\#4_Loops\WhileExample\WhileExamples\WhileExamples\bin\Debug\net5.0\WhileExamples.exe
+C:\Users\cemal\Desktop\CSharp-101\#4_Loops\WhileExample\WhileExamples\WhileExamples\bin\Debug\net5.0\WhileExamples.deps.json
+C:\Users\cemal\Desktop\CSharp-101\#4_Loops\WhileExample\WhileExamples\WhileExamples\bin\Debug\net5.0\WhileExamples.runtimeconfig.json
+C:\Users\cemal\Desktop\CSharp-101\#4_Loops\WhileExample\WhileExamples\WhileExamples\bin\Debug\net5.0\WhileExamples.runtimeconfig.dev.json
+C:\Users\cemal\Desktop\CSharp-101\#4_Loops\WhileExample\WhileExamples\WhileExamples\bin\Debug\net5.0\WhileExamples.dll
+C:\Users\cemal\Desktop\CSharp-101\#4_Loops\WhileExample\WhileExamples\WhileExamples\bin\Debug\net5.0\ref\WhileExamples.dll
+C:\Users\cemal\Desktop\CSharp-101\#4_Loops\WhileExample\WhileExamples\WhileExamples\bin\Debug\net5.0\WhileExamples.pdb
+C:\Users\cemal\Desktop\CSharp-101\#4_Loops\WhileExample\WhileExamples\WhileExamples\obj\Debug\net5.0\WhileExamples.csproj.AssemblyReference.cache
+C:\Users\cemal\Desktop\CSharp-101\#4_Loops\WhileExample\WhileExamples\WhileExamples\obj\Debug\net5.0\WhileExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cemal\Desktop\CSharp-101\#4_Loops\WhileExample\WhileExamples\WhileExamples\obj\Debug\net5.0\WhileExamples.AssemblyInfoInputs.cache
+C:\Users\cemal\Desktop\CSharp-101\#4_Loops\WhileExample\WhileExamples\WhileExamples\obj\Debug\net5.0\WhileExamples.AssemblyInfo.cs
+C:\Users\cemal\Desktop\CSharp-101\#4_Loops\WhileExample\WhileExamples\WhileExamples\obj\Debug\net5.0\WhileExamples.csproj.CoreCompileInputs.cache
+C:\Users\cemal\Desktop\CSharp-101\#4_Loops\WhileExample\WhileExamples\WhileExamples\obj\Debug\net5.0\WhileExamples.dll
+C:\Users\cemal\Desktop\CSharp-101\#4_Loops\WhileExample\WhileExamples\WhileExamples\obj\Debug\net5.0\ref\WhileExamples.dll
+C:\Users\cemal\Desktop\CSharp-101\#4_Loops\WhileExample\WhileExamples\WhileExamples\obj\Debug\net5.0\WhileExamples.pdb
+C:\Users\cemal\Desktop\CSharp-101\#4_Loops\WhileExample\WhileExamples\WhileExamples\obj\Debug\net5.0\WhileExamples.genruntimeconfig.cache

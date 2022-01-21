@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
-build_property.RootNamespace = LoopsExample
-build_property.ProjectDir = C:\Users\cemal\Desktop\CSharp-101\#4_Loops\LoopsExample\LoopsExample\
+build_property.RootNamespace = WhileExamples
+build_property.ProjectDir = C:\Users\cemal\Desktop\CSharp-101\#4_Loops\WhileExample\WhileExamples\WhileExamples\
